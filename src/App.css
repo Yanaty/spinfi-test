@@ -1,0 +1,37 @@
+.App {
+  background-color: #282c34;
+  color: white;
+  min-height: 100vh;
+}
+
+header {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.container {
+  max-width: 400px;
+  margin: 0 auto;
+}
+
+h1 {
+  margin: 0;
+  padding-top: 20px;
+  text-align: center;
+}
+
+.btn {
+  background: #0072ce;
+  color: white;
+  border: none;
+  padding: 7px 12px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btn-block {
+  margin-top: 20px;
+  text-align: center;
+}

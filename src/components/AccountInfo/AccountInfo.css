@@ -1,0 +1,14 @@
+.account-info {
+  margin-top: 30px;
+}
+
+.account-row {
+  margin: 20px 0;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.green-text {
+  color: green;
+}

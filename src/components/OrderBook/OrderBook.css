@@ -1,0 +1,40 @@
+.order-book {
+  padding: 20px 0 50px;
+}
+
+.book-table {
+  width: 100%;
+}
+
+.table-head th {
+  color: grey;
+}
+
+.book-table th:first-child,
+.book-table td:first-child {
+  text-align: left;
+  width: 30%;
+}
+
+.book-table th,
+.book-table td {
+  text-align: right;
+  padding: 5px 0;
+}
+
+.book-table th:last-child,
+.book-table td:last-child {
+  width: 40%;
+}
+
+.text-red {
+  color: #ff585d;
+}
+
+.text-green {
+  color: green;
+}
+
+.middle-row td {
+  color: gray;
+}
